@@ -52,12 +52,12 @@
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rahul-Dewani&repo=CARE-AI&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PiyushDeshmukh-apperentice&repo=C.A.R.E.-Insurance&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5"/>  
 
 <br/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rahul-Dewani&repo=Deepfake-Detection&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7D5"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Not-Mally-Raw&repo=RAG-RuleSync&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7D5"/>
 
 </div>
 
