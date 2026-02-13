@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=4facfe&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Rahul-Dewani&label=Profile%20views&color=4facfe&style=flat" />
 
 <br>
 
@@ -41,20 +41,20 @@ Exploring AI robustness & security as a research side interest
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/Forensic-BugHunter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Forensic-BugHunter&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Rahul-Dewani/Forensic-BugHunter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/CARE-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=CARE-AI&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Rahul-Dewani/CARE-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=CARE-AI&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/Sanjeevani-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sanjeevani-AI&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Rahul-Dewani/Sanjeevani-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/Deepfake-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Deepfake-Detection&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Rahul-Dewani/Deepfake-Detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Deepfake-Detection&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -65,11 +65,11 @@ Exploring AI robustness & security as a research side interest
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Dewani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Dewani&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Rahul-Dewani&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -77,13 +77,13 @@ Exploring AI robustness & security as a research side interest
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Dewani&theme=tokyo-night&hide_border=true"/>
 
 ---
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/Rahul-Dewani/Rahul-Dewani/output/snake.svg"/>
 
 ---
 
