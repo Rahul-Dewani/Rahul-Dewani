@@ -46,18 +46,18 @@
 
 # 🚀 Featured Projects
 
-| | |
-|:---:|:---:|
-| [![Forensic BugHunter](https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=tokyonight&hide_border=true)](https://github.com/Rahul-Dewani/Forensic-BugHunter) | [![CARE AI](https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=CARE-AI&theme=tokyonight&hide_border=true)](https://github.com/Rahul-Dewani/CARE-AI) |
-| [![Sanjeevani AI](https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=tokyonight&hide_border=true)](https://github.com/Rahul-Dewani/Sanjeevani-AI) | [![Deepfake Detection](https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Deepfake-Detection&theme=tokyonight&hide_border=true)](https://github.com/Rahul-Dewani/Deepfake-Detection) |
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=CARE-AI&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-# 📊 GitHub Stats
+<br/>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Rahul-Dewani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Rahul-Dewani)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Deepfake-Detection&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Dewani&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Rahul-Dewani)
+</div>
+
 ---
 
 # 📊 GitHub Stats
