@@ -1,71 +1,104 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Student;Building+Secure+AI+Systems;Researching+Malware+%26+Deepfakes;Coding+in+Python+%26+C%2B%2B" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <h3>🤖 AI Engineer | 🛡️ Cybersecurity Researcher</h3>
+<!-- CUSTOM BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:4facfe&height=200&section=header&text=Rahul%20Dewani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+Agentic+AI+Systems;Generative+AI+%7C+Computer+Vision;Turning+Ideas+into+Intelligent+Systems"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=4facfe&style=flat" />
+
+<br>
+
+### 🤖 AI Engineer • Generative AI • Computer Vision  
+Exploring AI robustness & security as a research side interest
+
 </div>
 
 ---
 
-### 🚀 About Me
-
-I am an engineering student at **Vishwakarma Institute of Information Technology, Pune**, specializing in **Artificial Intelligence and Data Science**. 
-
-My technical expertise lies in building end-to-end AI solutions—from **Generative AI** pipelines and **Computer Vision** models to **Full-Stack** integrations. Beyond development, I have a deep interest in **Cybersecurity**, specifically in malware analysis and securing AI infrastructure against adversarial threats.
-
-- 🎓 **Class of 2027:** B.Tech in AI & Data Science.
-- 💡 **Interests:** Machine Learning, RAG Architectures, Network Security, and App Development.
-- 🏆 **Recognition:** Winner of PICT Impetus 2025 | Google Cybersecurity Professional.
-- 📝 **Research:** Published in **IEEE Xplore** on extracting insights from handwritten feedback.
-
----
-
-### 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,mongodb,mysql,flask,fastapi,tensorflow,pytorch,opencv"/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-4FACFE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-00C896?style=for-the-badge"/>
 
 </div>
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🛡️ C.A.R.E. Insurance** | Automated claim approval system for Health & Auto. Uses CNNs for damage assessment and LLMs for policy validation. | `GenAI` `CNN` `React` |
-| **🏥 Sanjeevani AI** | Disease prediction tool using **YOLOv8** for diagnostics and **RAG** for generating detailed medical reports. | `YOLOv8` `RAG` `Python` |
-| **🎭 Deepfake Detection** | Real-time deepfake detection system using custom CNNs and MTCNN to combat synthetic media threats. | `TensorFlow` `Flask` `MTCNN` |
-| **🦠 Android Malware** | *Educational Research:* Documented Android malware modules to demonstrate C2 concepts, persistence, and data exfiltration. | `Java` `Android` `Security` |
-
----
-
-### 📊 GitHub Stats
+# 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
+
+<a href="https://github.com/YOUR_USERNAME/Forensic-BugHunter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Forensic-BugHunter&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/CARE-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=CARE-AI&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/Sanjeevani-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sanjeevani-AI&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/Deepfake-Detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Deepfake-Detection&theme=tokyonight&hide_border=true"/>
+</a>
+
 </div>
 
 ---
 
+# 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg"/>
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/rahul-dewani">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rahuldewani321@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:0f2027&height=120&section=footer"/>
