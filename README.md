@@ -44,13 +44,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=gruvbox&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=CARE-AI&theme=gruvbox&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=gruvbox&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=gruvbox&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=gruvbox&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Deepfake-Detection&theme=gruvbox&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PiyushDeshmukh-apperentice&repo=C.A.R.E.-Insurance&theme=gruvbox&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Not-Mally-Raw&repo=RAG-RuleSync&theme=gruvbox&hide_border=true"/>
 
 </div>
 
@@ -60,8 +60,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Dewani&show_icons=true&theme=gruvbox&hide_border=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Dewani&layout=compact&theme=gruvbox&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rahul-Dewani&show_icons=true&theme=gruvbox&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rahul-Dewani&layout=compact&theme=gruvbox&hide_border=true"/>
 <img src="https://streak-stats.demolab.com?user=Rahul-Dewani&theme=gruvbox&hide_border=true"/>
 
 </div>
@@ -79,11 +79,11 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/rahul-dewani">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:rahuldewani321@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="35"/>
 </a>
 
 </div>
