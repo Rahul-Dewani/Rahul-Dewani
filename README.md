@@ -48,18 +48,13 @@
 
 <div align="center">
 
-<a href="https://github.com/Rahul-Dewani/Forensic-BugHunter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=tokyonight&hide_border=true&v=1"/>
-</a>
-<a href="https://github.com/Rahul-Dewani/CARE-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=CARE-AI&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Rahul-Dewani/Sanjeevani-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=tokyonight&hide_border=true&v=1"/>
-</a>
-<a href="https://github.com/Rahul-Dewani/Deepfake-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Deepfake-Detection&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=CARE-AI&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Deepfake-Detection&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
