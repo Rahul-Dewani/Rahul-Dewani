@@ -20,22 +20,26 @@
 
 <div align="center">
 
-<!-- Row 1 (Core AI / dominant tools) -->
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp" height="65"/>
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="65"/>
-<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="65"/>
+<!-- Layer 1 -->
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,fastapi,docker" height="55"/>
 
 <br/>
 
-<!-- Row 2 (Widest row — ecosystem/tools) -->
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,fastapi,flask,mongodb,mysql,docker,linux,git,html,css" height="50"/>
-<img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" height="50"/>
-<img src="https://avatars.githubusercontent.com/u/19820331?s=200&v=4" height="50"/>
+<!-- Layer 2 -->
+<img src="https://skillicons.dev/icons?i=linux,git,nodejs,react,mongodb,mysql,flask,js" height="55"/>
 
 <br/>
 
-<!-- Row 3 (Supporting / infra emphasis again larger) -->
-<img src="https://skillicons.dev/icons?i=python,docker,linux" height="65"/>
+<!-- Layer 3 -->
+<img src="https://skillicons.dev/icons?i=html,css,bash,ubuntu,debian,nginx" height="55"/>
+
+<br/>
+
+<!-- Layer 4 (Agentic / Vector / AI tools) -->
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="55"/>
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="55"/>
+<img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" height="55"/>
+<img src="https://avatars.githubusercontent.com/u/19820331?s=200&v=4" height="55"/>
 
 </div>
 ---
