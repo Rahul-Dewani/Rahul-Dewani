@@ -1,106 +1,143 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a1a2e,70:16213e,100:24243e&height=220&section=header&text=Rahul%20Dewani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!--- 3D Profile -->
+<img src="https://raw.githubusercontent.com/RafaelGoulartB/github-profile-3d/main/src/images/demo.svg?username=Rahul-Dewani"/>
 
+<!--- Your typing (kept perfect) -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7F7FD5&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+Agentic+AI+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Intelligent+Systems+%7C+Automation"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Rahul-Dewani&label=Profile%20views&color=7F7FD5&style=flat"/>
-
-</div>
-
-<div align="center">
-
-### 🎓 **AI Engineering Student** | **Agentic AI** | **Generative AI** | **RAG Systems**
-
-</div>
-
----
-
-## ⚡ **Tech Stack**
-
-<div align="center">
-
-<!-- Core AI/ML -->
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,fastapi,docker" height="60" style="filter: drop-shadow(0 4px 12px rgba(127,127,213,0.3));"/>
-
-<br/>
-
-<!-- Backend + DevOps -->
-<img src="https://skillicons.dev/icons?i=linux,git,nodejs,react,mongodb,mysql,flask,js" height="60" style="filter: drop-shadow(0 4px 12px rgba(127,127,213,0.3));"/>
-
-<br/>
-
-<!-- Web + SysAdmin -->
-<img src="https://skillicons.dev/icons?i=html,css,bash,ubuntu,debian,nginx" height="60" style="filter: drop-shadow(0 4px 12px rgba(127,127,213,0.3));"/>
-
-<br/>
-
-<!-- Agentic AI Tools -->
-<img src="https://avatars.githubusercontent.com/u/126733545?s=128&v=4" height="60" style="filter: drop-shadow(0 4px 12px rgba(127,127,213,0.3));"/>
-<img src="https://avatars.githubusercontent.com/u/139895814?s=128&v=4" height="60" style="filter: drop-shadow(0 4px 12px rgba(127,127,213,0.3));"/>
-<img src="https://avatars.githubusercontent.com/u/54333248?s=128&v=4" height="60" style="filter: drop-shadow(0 4px 12px rgba(127,127,213,0.3));"/>
-<img src="https://avatars.githubusercontent.com/u/19820331?s=128&v=4" height="60" style="filter: drop-shadow(0 4px 12px rgba(127,127,213,0.3));"/>
+<!--- Profile views with glass effect -->
+<table>
+<tr>
+<td><img src="https://komarev.com/ghpvc/?username=Rahul-Dewani&label=Profile%20views&color=7F7FD5&style=flat"/></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
+## 🧠 **CURRENT FOCUS**
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rahul-Dewani&repo=CARE-AI&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5"/>
-
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rahul-Dewani&repo=Deepfake-Detection&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7D5"/>
+<table>
+<tr>
+<th>🧠 AI/ML</th>
+<th>🔗 RAG Systems</th> 
+<th>🤖 Agentic AI</th>
+<th>🚀 Production</th>
+</tr>
+<tr>
+<td align="center">95%</td>
+<td align="center">90%</td>
+<td align="center">85%</td>
+<td align="center">80%</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
+## ⚡ **Tech Stack** *(Your favorite - enhanced)*
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rahul-Dewani&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5&count_private=true"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rahul-Dewani&layout=compact&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5"/>
-<img src="https://streak-stats.demolab.com?user=Rahul-Dewani&theme=radical&hide_border=true&background=0a0a1a&border=1a1a2e&dates=7F7FD5"/>
-
-</div>
-
----
-
-## 📈 **Activity Graph**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Dewani&theme=radical&hide_border=true&bg_color=0a0a1a&color=7F7FD5&line=94A3B8&point=7F7FD5" width="100%"/>
-
-</div>
-
----
-
-## 🤝 **Connect**
-
-<div align="center">
-
-<a href="https://linkedin.com/in/rahul-dewani">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60" style="filter: drop-shadow(0 4px 12px rgba(127,127,213,0.4));"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:rahuldewani321@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="60" style="filter: drop-shadow(0 4px 12px rgba(127,127,213,0.4));"/>
+<!--- Orbital layout with hover glow --->
+<a href="#" style="display: inline-block; margin: 8px;">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,fastapi,docker" height="65"/>
 </a>
 
+<a href="#" style="display: inline-block; margin: 8px;">
+<img src="https://skillicons.dev/icons?i=linux,git,nodejs,react,mongodb,mysql,flask,js" height="65"/>
+</a>
+
+<a href="#" style="display: inline-block; margin: 8px;">
+<img src="https://skillicons.dev/icons?i=html,css,bash,ubuntu,debian,nginx" height="65"/>
+</a>
+
+<!--- Agentic AI logos orbital --->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=120&v=4"/>
+<img src="https://avatars.githubusercontent.com/u/139895814?s=120&v=4"/>
+<img src="https://avatars.githubusercontent.com/u/54333248?s=120&v=4"/>
+<img src="https://avatars.githubusercontent.com/u/19820331?s=120&v=4"/>
 </div>
+
+</div>
+
+---
+
+## 🚀 **Featured Projects** *(Glassmorphism)*
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,30:16213e,70:1a1a2e,100:0a0a1a&height=120&section=footer"/>
+<div style="background: rgba(10,10,26,0.8); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(127,127,213,0.2); padding: 20px; margin: 10px; display: inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=transparent&bg_color=0a0a1a&title_color=ffffff"/>
+<p><b>Forensic BugHunter</b> - Advanced security analysis</p>
+</div>
 
+<div style="background: rgba(10,10,26,0.8); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(127,127,213,0.2); padding: 20px; margin: 10px; display: inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=CARE-AI&theme=transparent&bg_color=0a0a1a&title_color=ffffff"/>
+<p><b>CARE-AI</b> - Healthcare AI assistant</p>
+</div>
+
+</div>
+
+<div align="center">
+<!--- Second row --->
+<div style="background: rgba(10,10,26,0.8); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(127,127,213,0.2); padding: 20px; margin: 10px; display: inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=transparent&bg_color=0a0a1a&title_color=ffffff"/>
+<p><b>Sanjeevani-AI</b> - Medical diagnostics AI</p>
+</div>
+
+<div style="background: rgba(10,10,26,0.8); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(127,127,213,0.2); padding: 20px; margin: 10px; display: inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Deepfake-Detection&theme=transparent&bg_color=0a0a1a&title_color=ffffff"/>
+<p><b>Deepfake Detection</b> - ML security system</p>
+</div>
+</div>
+
+---
+
+## 📊 **Metrics Dashboard**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Dewani&show_icons=true&theme=transparent&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5&count_private=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Dewani&layout=compact&theme=transparent&bg_color=0a0a1a&title_color=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 **Activity Heatmap**
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Dewani&theme=github-light&hide_border=true&bg_color=0a0a1a&color=7F7FD5&line=94A3B8&point=7F7FD5" width="100%"/>
+
+</div>
+
+---
+
+## 🔗 **Connect**
+
+<div align="center">
+
+<picture>
+  <a href="https://linkedin.com/in/rahul-dewani">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect" height="35"/>
+  </a>
+  <a href="mailto:rahuldewani321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email" height="35"/>
+  </a>
+</picture>
+
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Rahul-Dewani&label=Profile%20visited&color=7F7FD5&style=flat-square" alt="Profile views counter"/>
 </div>
