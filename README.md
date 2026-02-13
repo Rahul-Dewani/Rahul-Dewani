@@ -20,10 +20,24 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,tensorflow,fastapi,flask,nodejs,react,mongodb,mysql,docker,linux,git,html,css"/><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="48"/><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="48"/><img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" height="48"/><img src="https://avatars.githubusercontent.com/u/19820331?s=200&v=4" height="48"/>
+<!-- Row 1 (Core AI / dominant tools) -->
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp" height="65"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="65"/>
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="65"/>
+
+<br/>
+
+<!-- Row 2 (Widest row — ecosystem/tools) -->
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,fastapi,flask,mongodb,mysql,docker,linux,git,html,css" height="50"/>
+<img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" height="50"/>
+<img src="https://avatars.githubusercontent.com/u/19820331?s=200&v=4" height="50"/>
+
+<br/>
+
+<!-- Row 3 (Supporting / infra emphasis again larger) -->
+<img src="https://skillicons.dev/icons?i=python,docker,linux" height="65"/>
 
 </div>
-
 ---
 
 # 🚀 Featured Projects
@@ -31,13 +45,13 @@
 <div align="center">
 
 <a href="https://github.com/Rahul-Dewani/Forensic-BugHunter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Forensic-BugHunter&theme=tokyonight&hide_border=true&v=1"/>
 </a>
 <a href="https://github.com/Rahul-Dewani/CARE-AI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=CARE-AI&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/Rahul-Dewani/Sanjeevani-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Sanjeevani-AI&theme=tokyonight&hide_border=true&v=1"/>
 </a>
 <a href="https://github.com/Rahul-Dewani/Deepfake-Detection">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Dewani&repo=Deepfake-Detection&theme=tokyonight&hide_border=true"/>
@@ -51,9 +65,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Dewani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Dewani&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://streak-stats.demolab.com?user=Rahul-Dewani&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Dewani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Dewani&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
+<img src="https://streak-stats.demolab.com?user=Rahul-Dewani&theme=tokyonight&hide_border=true&v=1"/>
 
 </div>
 
