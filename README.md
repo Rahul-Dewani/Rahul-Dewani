@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+a+AI+Engineer!; Building+Secure+AI+Systems; Researching+Malware+%26+Deepfakes; Coding+in+Python+%26+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Student;Building+Secure+AI+Systems;Researching+Malware+%26+Deepfakes;Coding+in+Python+%26+C%2B%2B" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🤖 AI/DS Junior @ VIIT Pune | 🛡️ Cybersecurity Enthusiast</h3>
+  <h3>🤖 AI Engineer | 🛡️ Cybersecurity Researcher</h3>
 </div>
 
 ---
