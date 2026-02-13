@@ -69,7 +69,7 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rahul-Dewani&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5&count_private=true"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rahul-Dewani&layout=compact&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ffffff&text_color=94A3B8&icon_color=7F7FD5"/>
-<img src="https://streak-stats.demolab.com?user=Rahul-Dewani&theme=radical&hide_border=true&background=0a0a1a&border=1a1a2e&dates=7F7FD5"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Rahul-Dewani&theme=github-dark&hide_border=true"/>
 
 </div>
 
